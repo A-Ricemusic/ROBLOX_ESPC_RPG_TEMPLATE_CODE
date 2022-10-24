@@ -1,0 +1,8 @@
+std = ""
+
+[rules]
+parenthese_conditions = "allow"
+multiple_statements = "allow"
+global_usage = "allow"
+
+[config]
